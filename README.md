@@ -1,1 +1,1 @@
-# Python-KM_CM_Event
+A handy tool for managing events.
